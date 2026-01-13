@@ -1,7 +1,7 @@
 # AI_Agent-Whisper - ~~Maya-1~~ Piper
 Created an AI AGENT which uses whisper STT and ~~Maya~~ Piper TTS locally along with Ollama to provide an assistant behaviour vocally.
 
-# Update ---><br>
+# Update 1 ----><br>
 I am using Piper TTS as i dont have GPU or Collab Pro
 
 # Update 2 ----><br>
