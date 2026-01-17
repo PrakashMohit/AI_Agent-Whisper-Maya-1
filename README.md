@@ -1,3 +1,8 @@
+<h1 align="center" id="title">AI_Agent-Whisper-Piper</h1><br>
+
+<p align="center"><img src="https://socialify.git.ci/PrakashMohit/AI_Agent-Whisper-Piper/image?custom_language=Hugging+Face&amp;font=KoHo&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Formal+Invitation&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+
+
 # AI_Agent-Whisper - ~~Maya-1~~ Piper
 Created an AI AGENT which uses whisper STT and ~~Maya~~ Piper TTS locally along with Ollama to provide an assistant behaviour vocally.
 
